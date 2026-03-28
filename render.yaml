@@ -1,0 +1,8 @@
+services:
+  - type: worker
+    name: cybermind-bot
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    region: frankfurt
+    plan: free
+    autoDeploy: true
