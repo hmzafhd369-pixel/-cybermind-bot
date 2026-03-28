@@ -18,7 +18,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Essential Constants (Preserved)
-BOT_TOKEN = "8594908071:8594908071:AAEP7wwBjMuZc6o6NEtXhy6mhuoieiJ4cvw"
+BOT_TOKEN = "8727707206:AAFE04HcDxRyYuS3iNVGGbi4eALqNqwzmY0"
 ADMIN_ID = 7531900641
 CHANNEL_USERNAME = "@CyberMindAr"
 
